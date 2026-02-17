@@ -60,10 +60,10 @@ const mockTailLists = [
 ];
 
 const profileLists = [
-  { imgPath: "/images/guest1.png" },
-  { imgPath: "/images/guest2.png" },
-  { imgPath: "/images/guest3.png" },
-  { imgPath: "/images/guest4.png" },
+  { imgPath: "/images/profile1.png" },
+  { imgPath: "/images/profile2.png" },
+  { imgPath: "/images/profile3.png" },
+  { imgPath: "/images/profile4.png" },
 ];
 
 const featureLists = [
@@ -106,7 +106,7 @@ const sliderLists = [
   {
     id: 1,
     name: "Citrus Mint Splash",
-    image: "/images/mocktail1.png",
+    image: "/images/drink1.png",
     title: "Freshness in Every Sip",
     description:
       "A lively blend of lime, mint, and sparkling soda crafted to awaken your senses and keep you refreshed all day.",
@@ -114,7 +114,7 @@ const sliderLists = [
   {
     id: 2,
     name: "Sunset Mango Cooler",
-    image: "/images/mocktail2.png",
+    image: "/images/drink2.png",
     title: "Sweet, Smooth, and Tropical",
     description:
       "Rich mango puree balanced with citrus notes creates a smooth tropical drink perfect for warm evenings.",
@@ -122,7 +122,7 @@ const sliderLists = [
   {
     id: 3,
     name: "Berry Frost Delight",
-    image: "/images/mocktail3.png",
+    image: "/images/drink3.png",
     title: "Chilled Berry Perfection",
     description:
       "A frosty fusion of strawberries, blueberries, and crushed ice delivering vibrant flavor and cool refreshment.",
@@ -130,7 +130,7 @@ const sliderLists = [
   {
     id: 4,
     name: "Lavender Citrus Dream",
-    image: "/images/mocktail4.png",
+    image: "/images/drink4.png",
     title: "Floral Elegance Meets Citrus Spark",
     description:
       "Soft lavender aroma combined with bright citrus tones makes this drink calming, fragrant, and unique.",
