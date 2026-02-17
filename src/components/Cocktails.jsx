@@ -4,6 +4,7 @@ import { useGSAP } from '@gsap/react'
 import gsap from 'gsap'
 
 const Cocktails = () => {
+
     useGSAP(()=>{
         const parallaxTimeline=gsap.timeline({
             scrollTrigger:{
