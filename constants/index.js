@@ -97,9 +97,9 @@ const openingHours = [
 ];
 
 const socials = [
-  { name: "Instagram", icon: "/images/instagram.png", url: "#" },
-  { name: "X (Twitter)", icon: "/images/twitter.png", url: "#" },
-  { name: "Facebook", icon: "/images/facebook.png", url: "#" },
+  { name: "Instagram", icon: "/images/insta.png", url: "#" },
+  { name: "X (Twitter)", icon: "/images/x.png", url: "#" },
+  { name: "Facebook", icon: "/images/fb.png", url: "#" },
 ];
 
 const sliderLists = [
